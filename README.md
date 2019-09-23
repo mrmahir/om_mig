@@ -1,6 +1,11 @@
 # Om Mig
 **Navn:** Maho
+
 **Højde:** 192 m
-**Nachos?:** Ja. 
+
+**Nachos?:** Ja.
+ 
 #### Hvad vil jeg gerne arbejde med?
 Jeg vil gerne arbejde med data og programering på dette workshop
+
+This is how we do it 
